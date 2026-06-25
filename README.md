@@ -1,12 +1,14 @@
 # Adauto Ribeiro
 
-**`Estudante de desenvolvimento FullStack`**
+**`Estudante de Data Science`**
 
 👋 Olá, eu sou Adauto
 
-Sou estudante de desenvolvimento Fullstack, em processo de formação contínua, com foco em construir sistemas reais, bem estruturados e funcionais. Atualmente estudo e pratico diariamente tecnologias como JavaScript, Git/GitHub e fundamentos de desenvolvimento web, seguindo um plano sólido e progressivo voltado ao mercado. Meu objetivo é evoluir como desenvolvedor profissional, criando projetos práticos, aprendendo boas práticas de código e desenvolvendo uma base forte em frontend e backend.
+Sou estudante de Ciência de Dados, em constante processo de aprendizado, construindo uma base sólida em programação e análise de dados. Atualmente estudo e pratico diariamente Python, desenvolvendo lógica de programação, resolução de problemas e boas práticas de código como primeiro passo para atuar na área de dados.
 
-📌 Aqui você encontrará meus estudos, exercícios e projetos, todos documentados e versionados, refletindo minha evolução como desenvolvedor.
+Meu objetivo é evoluir de forma consistente, desenvolvendo projetos práticos e ampliando meus conhecimentos em SQL, estatística, análise de dados e Machine Learning ao longo da minha jornada.
+
+📌 Aqui você encontrará meus estudos, exercícios e projetos, todos documentados e versionados, refletindo minha evolução na área de Ciência de Dados.
 
 <p align="left">
         <img 
@@ -39,37 +41,12 @@ Sou estudante de desenvolvimento Fullstack, em processo de formação contínua,
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
 
 <br/>
 <br/>
 
 ---
 
-Este repositório reúne meus estudos e projetos práticos, desenvolvidos com foco em aprender fundamentos sólidos, versionamento de código e boas práticas de desenvolvimento.
-Estou construindo minha base em tecnologias web modernas, sempre priorizando prática, organização e evolução constante.
+Este repositório reúne meus estudos e projetos práticos, desenvolvidos com foco na construção de uma base sólida em Ciência de Dados. Atualmente, concentro meus estudos em Python, lógica de programação e resolução de problemas, sempre priorizando prática, organização, versionamento de código e aprendizado contínuo.
