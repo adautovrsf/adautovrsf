@@ -37,8 +37,8 @@ Meu objetivo é evoluir de forma consistente, desenvolvendo projetos práticos e
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="python"
+    title="python" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
